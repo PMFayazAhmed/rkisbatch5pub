@@ -9,6 +9,7 @@ num1=s.nextInt();
 Sysstem.out.println("Enter second number value");
 num2=s.nextInt();
 res=num1+num2;
+System.out.println("This program is to find sum of two integer values");
 System.out.println("Result is "+res);
 if(res>0)
 	System.out.println("Result is Positive value");
