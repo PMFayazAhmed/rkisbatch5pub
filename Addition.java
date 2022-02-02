@@ -8,7 +8,7 @@ Scanner s = new Scanner(System.in);
 num1=s.nextInt();
 Sysstem.out.println("Enter second number value");
 num2=s.nextInt();
-res=num1+num2;
+res=num1*num2;
 System.out.println("Result is "+res);
 if(res>0)
 	System.out.println("Result is Positive value");
