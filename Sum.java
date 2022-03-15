@@ -14,12 +14,13 @@ res=(num1+num2)/num2;
 System.out.println("This program is to find sum of two integer values");
 System.out.println("Result is "+res);
 if(res>0)
-	System.out.println("Result is Positive value");
+	System.out.println("Result is Positive number");
 else
-	SYstem.out.println("Results is negative value");
+	SYstem.out.println("Results is negative number");
 System.out.println("This is extra line added");
 System.out.println("This is end of the program");
 System.out.println("Thank you DEVOPS TEAM");
 System.out.println("Todays date is 4th Feb");
+	//End of the main method
 }
 }
