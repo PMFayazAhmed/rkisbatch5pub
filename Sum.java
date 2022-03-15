@@ -2,10 +2,12 @@ class Sum
 {
 public static void main(String args[])
 {
-int num1,num2,res;
+int num1,num2,res,a1,a2;
 Sysstem.out.println("Enter first number value");
 Scanner s = new Scanner(System.in);
 num1=s.nextInt();
+a1=25;
+a2=45;
 Sysstem.out.println("Enter second number value");
 num2=s.nextInt();
 res=(num1+num2)/num2;
