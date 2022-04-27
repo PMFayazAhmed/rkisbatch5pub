@@ -20,6 +20,6 @@ else
 System.out.println("This is extra line added");
 System.out.println("This is end of the program");
 System.out.println("Thank you DEVOPS TEAM");
-System.out.println("Todays date is 4th Feb");
+System.out.println("Todays date is 27th April");
 }
 }
